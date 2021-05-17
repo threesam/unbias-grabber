@@ -1,0 +1,20 @@
+{
+  "name": "unbias",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "threesam",
+  "license": "MIT",
+  "dependencies": {
+    "algorithmia": "^0.3.10",
+    "date-fns": "^2.19.0",
+    "dotenv": "^8.2.0",
+    "newsapi": "^2.4.1",
+    "pg": "^8.6.0",
+    "puppeteer": "^8.0.0",
+    "string-punctuation-tokenizer": "^2.1.2",
+    "title-case-minors": "^1.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
