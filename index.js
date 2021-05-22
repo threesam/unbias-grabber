@@ -91,7 +91,7 @@ async function getData() {
 
     client.query(
       q.Create(
-        q.Collection('daily_data'),
+        q.Collection('unbias'),
         {
           data: { ...day }
         }
